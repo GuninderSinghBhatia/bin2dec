@@ -7,9 +7,9 @@ Users can enter a binary number (up to 8 digits), and the app will convert it to
 
 ## 🌐 Live Demo
 
-👉 **Check it out here:** [Live Site](https://your-deployment-link-here.com)
+👉 **Check it out here:** [Live Site]([https://your-deployment-link-here.com](https://bin2decxovert.netlify.app/))
 
-> *(Replace the above URL after deploying on Vercel, Netlify, etc.)*
+
 
 ---
 
