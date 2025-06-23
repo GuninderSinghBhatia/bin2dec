@@ -1,21 +1,40 @@
-Binary to Decimal Converter
-Idea from here
+# 🔢 Binary to Decimal Converter - React App
 
-Demo: Codesandbox
+This is a beginner-friendly **Binary to Decimal Converter** built using **React + Vite**.  
+Users can enter a binary number (up to 8 digits), and the app will convert it to its decimal equivalent.
 
-Tier: 1-Beginner
+---
 
-Binary is the number system all digital computers are based on. Therefore it's important for developers to understand binary, or base 2, mathematics. The purpose of Bin2Dec is to provide practice and understanding of how binary calculations.
+## 🌐 Live Demo
 
-Bin2Dec allows the user to enter strings of up to 8 binary digits, 0's and 1's, in any sequence and then displays its decimal equivalent.
+👉 **Check it out here:** [Live Site](https://your-deployment-link-here.com)
 
-This challenge requires that the developer implementing it follow these constraints:
+> *(Replace the above URL after deploying on Vercel, Netlify, etc.)*
 
-Arrays may not be used contain the binary digits entered by the user
-Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use.
-User Stories
- User can enter up to 8 binary digits in one input field
- User must be notified if anything other than a 0 or 1 was entered
- User views the results in a single output field containing the decimal (base 10) equivalent of the the binary number that was entered
-Bonus features
- User can enter a variable number of binary digits
+---
+
+## 🚀 Features
+
+- ✅ Enter up to 8 binary digits (0s and 1s only)
+- ❌ Input validation with instant feedback
+- 🔢 Converts binary to decimal on button click
+- 🎨 Styled with a modern gradient background and glassmorphism effect
+- 🧠 Built with `useState` and component-based architecture
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- HTML & CSS (custom gradient + animation)
+
+---
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/yourusername/binary-decimal-converter.git
+cd binary-decimal-converter
